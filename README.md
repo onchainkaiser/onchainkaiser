@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kaiser!
 
-Web3 Dev | FastAPI Newbie | Building onchain tools 🚀
+Web3 Dev | FastAPI | Building onchain tools 🚀
 
 ---
 
