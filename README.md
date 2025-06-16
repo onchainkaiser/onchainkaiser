@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Kaiser!
 
-<!--
-**onchainkaiser/onchainkaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 Dev | FastAPI Newbie | Building onchain tools 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- Python (FastAPI, Pydantic)
+- Web3 & Blockchain Concepts  
+- Solidity (coming soon)
+
+---
+
+### 📈 Current Mission:
+Building practical tools for onchain investors, devs, and learners. Tracking my journey one project at a time.
+
+---
+
+### 📬 How to reach me:
+- 📱 X (Twitter): [@theeweb3kaiser](https://x.com/theeweb3kaiser)
+- 📧 Email: webkaiser8@gmail.com
+
+---
+
+**Let’s build something valuable together! ⚡**
