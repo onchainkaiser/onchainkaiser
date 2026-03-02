@@ -1,25 +1,15 @@
-# 👋 Hey, I'm Kaiser!
+👋 Dabere — The Onchain Dev
 
-Web3 Dev | FastAPI | Building onchain tools 🚀
+6'2" in real life. Even taller onchain. 😂
 
----
+🛠️ Stack:
+• Python + FastAPI — Backend
+• React + Vite — Frontend  
+• Solidity + Rust(incoming) — Web3
 
-### 🛠️ Tech Stack:
-- Python (FastAPI, Pydantic)
-- Web3 & Blockchain Concepts  
-- Solidity (coming soon)
+🔥 What I build:
+Decision engines • DeFi tools • Smart contracts • Full stack dApps
 
----
+Always shipping. Never stopping. ⚡
 
-### 📈 Current Mission:
-Building practical tools for onchain investors, devs, and learners. Tracking my journey one project at a time.
-
----
-
-### 📬 How to reach me:
-- 📱 X (Twitter): [@theeweb3kaiser](https://x.com/theeweb3kaiser)
-- 📧 Email: webkaiser8@gmail.com
-
----
-
-**Let’s build something valuable together! ⚡**
+📬 @Dabere_codes on X
